@@ -1,0 +1,19 @@
+{
+  "name": "vantablack-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A very dark syntax theme with subtle color highlights",
+  "keywords": [
+    "syntax",
+    "theme",
+    "subtle",
+    "dark",
+    "black",
+    "gray"
+  ],
+  "repository": "https://github.com/nickvanderwildt/vantablack-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
